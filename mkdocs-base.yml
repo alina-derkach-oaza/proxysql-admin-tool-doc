@@ -54,6 +54,7 @@ theme:
 #    - content.action.edit
     - content.action.view
     - content.code.copy
+    - toc.integrate
 
 extra_css:
   - https://unicons.iconscout.com/release/v3.0.3/css/line.css
